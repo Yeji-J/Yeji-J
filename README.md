@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h2>Yeji's Github Profile</h2>
+  <h1>🌱 Yeji's Github </h1>
 
 ![Yeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeji-J&theme=dracula&show_icons=true)
 
   <br/>
 
-<h4>Languages</h4>
+<h2>Languages</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeji-J&layout=compact)
 
   <br/>
 
-  <h4>Front-end Stack</h4>
+  <h2>Front-end Stack</h2>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
   <br/>
   <br/>
-  <h4>Algorithm</h4>
+  <h2>Algorithm</h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yzii)](https://solved.ac/yzii/)
 
