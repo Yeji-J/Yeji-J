@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 
 ![Yeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeji-J&theme=dracula&show_icons=true)
 
+  <br/>
+
 <h4>Languages</h4>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeji-J&layout=compact)
+
+  <br/>
 
   <h4>Front-end Stack</h4>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -34,5 +38,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+
+  <br/>
+  <br/>
+  <h4>Algorithm</h4>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yzii)](https://solved.ac/yzii/)
 
 </div>
