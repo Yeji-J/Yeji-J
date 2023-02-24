@@ -25,9 +25,8 @@
 
   <br/>
 
-<<<<<<< HEAD
 <b>Algorithm</b>
-=======
+
   <p><b>Front-end Stack</b></p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -46,7 +45,6 @@
   <br/>
   
   <p><b>Algorithm</b></p>
->>>>>>> af921e3794070a2e187aeb833e3ae5554cf84c0f
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yzii)](https://solved.ac/yzii/)
 
