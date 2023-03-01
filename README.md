@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🌱 Yeji's Github </h1>
 
-<b>Front-end Stack</b>
+<b>Stack</b>
 
   <div>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
