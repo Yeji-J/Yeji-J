@@ -36,10 +36,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yzii)](https://solved.ac/yzii/)
 
-  <br/>
-
-<b>Github Stats</b>
-
-![Yeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeji-J&theme=dracula&show_icons=true)
-
 </div>
