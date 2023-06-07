@@ -29,11 +29,6 @@
 <b>Languages</b>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeji-J&layout=compact)
-
-  <br/>
   
-  <p><b>Algorithm</b></p>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yzii)](https://solved.ac/yzii/)
 
 </div>
