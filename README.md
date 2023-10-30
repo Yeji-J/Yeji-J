@@ -6,4 +6,4 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
 
-📚 Study Note  **[yzii velog](https://velog.io/@yzii)**
+**[📚 Study Note : yzii velog](https://velog.io/@yzii)**
